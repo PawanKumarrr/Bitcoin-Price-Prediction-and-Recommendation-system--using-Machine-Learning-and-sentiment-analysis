@@ -1,0 +1,2 @@
+# Bitcoin-Price-Prediction-and-Recommendation-system--using-Machine-Learning-and-sentiment-analysis
+Using Deep Learning techniques and sentiment analysis. Integrated ARIMA, LSTM, and Linear Regression models for price forecasting. Implemented sentiment analysis on Twitter data, leveraging TextBlob and Tweepy.Utilized Alpha Vantage and Yahoo Finance for historical data, and Flask for web deployment.
